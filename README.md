@@ -17,4 +17,4 @@ Después de hacer clic en el boton aparecerá una gráfica como se muestra en la
 
 ## Acceso a la página web
 Para poder ver el resultado final de la app, puedes hacer clic en el siguiente enlace:
-[App de Análisis exploratorio](https://docs.streamlit.io/library/api-reference/widgets/st.checkbox)
+[App de Análisis exploratorio](https://analisis-exploratorio-de-datos-de-venta.onrender.com/)
